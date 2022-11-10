@@ -1,6 +1,6 @@
 ---
 title: First Blog
-date: 2022-11-10 16:25:00
+date: 2022-11-10 16:25:00 +0530
 categories: [personal,thoughts]
 tags: [first,checking,thought]
 ---
@@ -11,4 +11,4 @@ I plan to add my thoughts, write blogs etc.. But nothing is final, just thinking
 
 I have been using vimwiki for a long time, but syncing it to github, but I have always thought of creating a blog where I can write stuff for others to read.
 
-Lets see how it goes.:wq
+Lets see how it goes.
